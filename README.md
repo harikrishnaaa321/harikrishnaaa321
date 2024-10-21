@@ -46,6 +46,6 @@
 
 <!-- Optionally, add an animation using SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=007bff&width=800&lines=Passionate+Data+Scientist+%7C+Full+Stack+Developer+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=007bff&width=800&lines=Machine Learning+%7C+Web+Developer+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
 
