@@ -30,18 +30,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harikrishnaaa321&show_icons=true&locale=en&layout=compact" alt="harikrishnaaa321" />
 </p>
 
-
-
-<h3 align="left">Current Projects:</h3>
-<p align="left">
-  <a href="https://github.com/harikrishnaaa321/ai-content-generator" target="_blank">
-    <img src="https://img.shields.io/badge/AI%20Content%20Generator-%23007bff?style=for-the-badge&logo=github&logoColor=white" alt="AI Content Generator" />
-  </a>
-  <a href="https://github.com/harikrishnaaa321/chat-app" target="_blank">
-    <img src="https://img.shields.io/badge/Chat%20App-%23007bff?style=for-the-badge&logo=github&logoColor=white" alt="Chat App" />
-  </a>
-</p>
-
 <!-- Optionally, add an animation using SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=007bff&width=800&lines=Machine Learning+%7C+Web+Developer+%7C+Problem+Solver" alt="Typing SVG" />
