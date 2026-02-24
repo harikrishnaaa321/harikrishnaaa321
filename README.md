@@ -1,10 +1,16 @@
-<div align="center">
+<div align="center" style="background:#161b22; padding: 40px 20px 30px; border-bottom: 1px solid #30363d; margin-bottom: 20px;">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=161b22&height=180&text=Harikrishna%20Battula&fontSize=50&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Java%20Developer&descAlignY=62&descColor=8b949e&stroke=30363d&strokeWidth=1" width="100%"/>
+<h1 style="color:#ffffff; font-size:2.8rem; font-weight:700; margin:0 0 8px 0; letter-spacing:-0.5px;">
+  Harikrishna Battula
+</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer;Java+%7C+Spring+Boot+%7C+WebSockets" alt="Typing SVG"/>
+<p style="color:#8b949e; font-size:1.1rem; margin:0 0 16px 0; font-family: monospace;">
+  &lt; Full Stack Java Developer /&gt;
+</p>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Full+Stack+Java+Developer;Java+%7C+Spring+Boot+%7C+WebSockets" alt="Typing SVG"/>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=harikrishnaaa321&label=Profile+Views&color=21262d&style=for-the-badge&labelColor=161b22" alt="Profile Views"/>
 
@@ -24,7 +30,7 @@ public class Harikrishna {
                          "Hibernate/JPA", "REST APIs", "WebSockets"};
     String[] frontend = {"React", "Tailwind CSS", "JavaScript",
                          "HTML5", "CSS3"};
-    String[] database = {"MySQL", "MongoDB"};
+    String[] database = {"PostgreSQL", "MySQL"};
     String[] devops   = {"Docker", "Git", "Linux",
                          "Maven", "Gradle"};
     String  contact   = "harikrishnabattula008@gmail.com";
@@ -78,8 +84,8 @@ public class Harikrishna {
 
 **🗄️ Database**
 <p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 **🛠️ Tools & DevOps**
@@ -107,4 +113,8 @@ public class Harikrishna {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=161b22&height=60&section=footer&text=Let%27s%20Build%20Something%20Great&fontSize=16&fontColor=8b949e&stroke=30363d&strokeWidth=1" width="100%"/>
+<div align="center" style="background:#161b22; padding:16px; border-top:1px solid #30363d; margin-top:20px;">
+  <p style="color:#8b949e; font-size:0.85rem; margin:0; font-family:monospace;">
+    Let's Build Something Great &nbsp;|&nbsp; harikrishnabattula008@gmail.com
+  </p>
+</div>
