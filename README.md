@@ -1,16 +1,70 @@
-<div align="center" style="background:#161b22; padding: 40px 20px 30px; border-bottom: 1px solid #30363d; margin-bottom: 20px;">
+<div align="center">
 
-<h1 style="color:#ffffff; font-size:2.8rem; font-weight:700; margin:0 0 8px 0; letter-spacing:-0.5px;">
-  Harikrishna Battula
-</h1>
+<!-- Custom SVG Header -->
+<svg width="100%" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="dots" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1" fill="#21262d"/>
+    </pattern>
+    <linearGradient id="fadeLeft" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:0"/>
+    </linearGradient>
+    <linearGradient id="fadeRight" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
 
-<p style="color:#8b949e; font-size:1.1rem; margin:0 0 16px 0; font-family: monospace;">
-  &lt; Full Stack Java Developer /&gt;
-</p>
+  <!-- Base background -->
+  <rect width="900" height="200" fill="#0d1117"/>
 
+  <!-- Dot grid texture -->
+  <rect width="900" height="200" fill="url(#dots)"/>
+
+  <!-- Fade edges over dots -->
+  <rect width="200" height="200" fill="url(#fadeLeft)"/>
+  <rect x="700" width="200" height="200" fill="url(#fadeRight)"/>
+
+  <!-- Top border line -->
+  <line x1="0" y1="0" x2="900" y2="0" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Bottom border line -->
+  <line x1="0" y1="199" x2="900" y2="199" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Coffee icon -->
+  <text x="450" y="62" text-anchor="middle" font-size="28">☕</text>
+
+  <!-- Name -->
+  <text x="450" y="115"
+    text-anchor="middle"
+    font-family="Segoe UI, Helvetica, Arial, sans-serif"
+    font-size="42"
+    font-weight="700"
+    letter-spacing="-0.5"
+    fill="#ffffff">
+    Harikrishna Battula
+  </text>
+
+  <!-- Accent line under name -->
+  <line x1="310" y1="124" x2="590" y2="124" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Subtitle -->
+  <text x="450" y="155"
+    text-anchor="middle"
+    font-family="JetBrains Mono, Courier New, monospace"
+    font-size="15"
+    fill="#8b949e"
+    letter-spacing="0.5">
+    &lt; Full Stack Java Developer /&gt;
+  </text>
+
+</svg>
+
+<!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Full+Stack+Java+Developer;Java+%7C+Spring+Boot+%7C+WebSockets" alt="Typing SVG"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=harikrishnaaa321&label=Profile+Views&color=21262d&style=for-the-badge&labelColor=161b22" alt="Profile Views"/>
 
@@ -113,8 +167,16 @@ public class Harikrishna {
 
 ---
 
-<div align="center" style="background:#161b22; padding:16px; border-top:1px solid #30363d; margin-top:20px;">
-  <p style="color:#8b949e; font-size:0.85rem; margin:0; font-family:monospace;">
-    Let's Build Something Great &nbsp;|&nbsp; harikrishnabattula008@gmail.com
-  </p>
+<!-- Footer SVG -->
+<svg width="100%" viewBox="0 0 900 60" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="60" fill="#0d1117"/>
+  <rect width="900" height="60" fill="url(#dots)"/>
+  <line x1="0" y1="0" x2="900" y2="0" stroke="#30363d" stroke-width="1"/>
+  <text x="450" y="36" text-anchor="middle"
+    font-family="JetBrains Mono, Courier New, monospace"
+    font-size="13" fill="#8b949e" letter-spacing="1">
+    Let's Build Something Great · harikrishnabattula008@gmail.com
+  </text>
+</svg>
+
 </div>
