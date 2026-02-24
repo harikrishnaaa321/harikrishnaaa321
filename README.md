@@ -2,8 +2,9 @@
 
 <h1>👋 Hi, I'm Harikrishna</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=ffffff&center=true&vCenter=true&width=600&height=80&lines=Full+Stack+Java+Developer" alt="Typing SVG"/>
+<!-- <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=ffffff&center=true&vCenter=true&width=600&height=80&lines=Full+Stack+Java+Developer" alt="Typing SVG"/> -->
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=58a6ff&center=true&vCenter=true&width=600&height=80&lines=Full+Stack+Java+Developer" alt="Typing SVG"/>
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=harikrishnaaa321&label=Profile+Views&color=21262d&style=for-the-badge&labelColor=161b22" alt="Profile Views"/>
