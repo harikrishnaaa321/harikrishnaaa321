@@ -1,32 +1,117 @@
-<h1 align="center">Hi 👋, I'm Harikrishna Battula</h1>
-<h3 align="center">Passionate about Machine Learning and Web Developement</h3>
+<div align="center">
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harikrishnaaa321&label=Profile%20views&color=0e75b6&style=flat" alt="harikrishnaaa321" /> </p>
+<!-- Top Banner - Matrix/Dark Tech Style -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:0a1628,100:0d0d0d&height=160&text=Harikrishna%20Battula&fontSize=48&fontColor=00ff41&fontAlignY=45&desc=Full%20Stack%20Java%20Developer&descAlignY=68&descColor=00b4d8&animation=blinking" width="100%"/>
 
-- 📫⚡ How to reach me **harikrishnabattula008@gmail.com**
-<h3 align="left">Connect with me:</h3>
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer;Java+%7C+Spring+Boot+%7C+WebSockets" alt="Typing SVG"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=HarikrishnaBattula&label=Profile+Views&color=00ff41&style=for-the-badge&labelColor=0d0d0d" alt="Profile Views"/>
+
+</div>
+
+---
+
+<img align="right" alt="coding" width="360" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+
+### 👨‍💻 About Me
+```java
+@Developer
+public class Harikrishna {
+
+    String role       = "Full Stack Java Developer";
+    String[] backend  = {"Spring Boot", "Spring Security",
+                         "Hibernate/JPA", "REST APIs", "WebSockets"};
+    String[] frontend = {"React", "Tailwind CSS", "JavaScript",
+                         "HTML5", "CSS3"};
+    String[] database = {"MySQL", "MongoDB"};
+    String[] devops   = {"Docker", "Git", "Linux",
+                         "Maven", "Gradle"};
+    String contact    = "harikrishnabattula008@gmail.com";
+}
+```
+
+📫 **harikrishnabattula008@gmail.com**
+
+<br clear="right"/>
+
+---
+
+### 🌐 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/hari-krishna-battula-788313248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari-krishna-battula-788313248" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bharikrishna64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bharikrishna64" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/hari-krishna-battula-788313248" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/bharikrishna64" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="mailto:harikrishnabattula008@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer">  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+### 🛠️ Tech Stack
+
+**☕ Java & Backend**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harikrishnaaa321&show_icons=true&locale=en&layout=compact" alt="harikrishnaaa321" /></p>
-
-
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harikrishnaaa321&show_icons=true&locale=en" alt="harikrishnaaa321" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harikrishnaaa321&" alt="harikrishnaaa321" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harikrishnaaa321&show_icons=true&locale=en&layout=compact" alt="harikrishnaaa321" />
+**⚛️ Frontend**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-<!-- Optionally, add an animation using SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=007bff&width=800&lines=Machine Learning+%7C+Web+Developer+%7C+Problem+Solver" alt="Typing SVG" />
+**🗄️ Database**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
+
+**🛠️ Tools & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=HarikrishnaBattula&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarikrishnaBattula&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" height="180"/>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarikrishnaBattula&theme=chartreuse-dark&hide_border=true" width="65%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarikrishnaBattula&theme=react-dark&bg_color=0d0d0d&color=00ff41&line=00b4d8&point=00ff41&hide_border=true" width="95%"/>
+</div>
+
+---
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:0a1628,100:0d0d0d&height=60&section=footer&text=Let's%20Build%20Something%20Great&fontSize=18&fontColor=00ff41" width="100%"/>
