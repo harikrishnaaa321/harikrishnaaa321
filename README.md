@@ -1,109 +1,7 @@
 <div align="center">
 
-<!-- Top Banner - capsule-render venom with depth -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:0d1117&height=200&text=Harikrishna%20Battula&fontSize=48&fontColor=ffffff&fontAlignY=50&desc=Full%20Stack%20Java%20Developer&descAlignY=68&descColor=8b949e&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=161b22&height=180&text=Harikrishna%20Battula&fontSize=50&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Java%20Developer&descAlignY=62&descColor=8b949e&stroke=30363d&strokeWidth=1" width="100%"/>
 
-<!-- Animated SVG Banner -->
-<svg width="100%" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <!-- Background gradient -->
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1"/>
-      <stop offset="50%" style="stop-color:#161b22;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:1"/>
-    </linearGradient>
-    <!-- Shimmer sweep gradient -->
-    <linearGradient id="shimmer" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:0"/>
-      <stop offset="50%" style="stop-color:#ffffff;stop-opacity:0.15"/>
-      <stop offset="100%" style="stop-color:#ffffff;stop-opacity:0"/>
-    </linearGradient>
-    <!-- Glow filter -->
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <!-- Soft glow for particles -->
-    <filter id="softglow">
-      <feGaussianBlur stdDeviation="1.5" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <!-- Shimmer animation -->
-    <clipPath id="textClip">
-      <text x="400" y="68" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="22" font-weight="600">&lt; Full Stack Java Developer /&gt;</text>
-    </clipPath>
-  </defs>
-
-  <!-- Background -->
-  <rect width="800" height="120" fill="url(#bgGrad)"/>
-
-  <!-- Decorative left line -->
-  <line x1="40" y1="30" x2="40" y2="90" stroke="#21262d" stroke-width="1.5" opacity="0.8">
-    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="3s" repeatCount="indefinite"/>
-  </line>
-  <line x1="50" y1="40" x2="50" y2="80" stroke="#30363d" stroke-width="1" opacity="0.6">
-    <animate attributeName="opacity" values="0.6;0.2;0.6" dur="2.5s" repeatCount="indefinite"/>
-  </line>
-
-  <!-- Decorative right line -->
-  <line x1="760" y1="30" x2="760" y2="90" stroke="#21262d" stroke-width="1.5" opacity="0.8">
-    <animate attributeName="opacity" values="0.9;0.3;0.9" dur="3s" repeatCount="indefinite"/>
-  </line>
-  <line x1="750" y1="40" x2="750" y2="80" stroke="#30363d" stroke-width="1" opacity="0.6">
-    <animate attributeName="opacity" values="0.2;0.6;0.2" dur="2.5s" repeatCount="indefinite"/>
-  </line>
-
-  <!-- Floating particles -->
-  <circle cx="100" cy="30" r="1.5" fill="#30363d" filter="url(#softglow)">
-    <animate attributeName="cy" values="30;20;30" dur="4s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.4;1;0.4" dur="4s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="200" cy="90" r="1" fill="#21262d" filter="url(#softglow)">
-    <animate attributeName="cy" values="90;80;90" dur="3.5s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1;0.3;1" dur="3.5s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="600" cy="25" r="1.5" fill="#30363d" filter="url(#softglow)">
-    <animate attributeName="cy" values="25;35;25" dur="5s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.5;1;0.5" dur="5s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="680" cy="85" r="1" fill="#21262d" filter="url(#softglow)">
-    <animate attributeName="cy" values="85;75;85" dur="4.5s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1;0.4;1" dur="4.5s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="350" cy="15" r="1.2" fill="#30363d" filter="url(#softglow)">
-    <animate attributeName="cy" values="15;25;15" dur="3s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="3s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="460" cy="100" r="1" fill="#21262d" filter="url(#softglow)">
-    <animate attributeName="cy" values="100;90;100" dur="4s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="4s" repeatCount="indefinite"/>
-  </circle>
-
-  <!-- Main text with glow -->
-  <text x="400" y="68" text-anchor="middle"
-    font-family="JetBrains Mono, monospace"
-    font-size="22" font-weight="600"
-    fill="#ffffff" filter="url(#glow)" opacity="0.95">
-    &lt; Full Stack Java Developer /&gt;
-    <animate attributeName="opacity" values="0.7;1;0.7" dur="4s" repeatCount="indefinite"/>
-  </text>
-
-  <!-- Shimmer sweep over text -->
-  <rect x="-800" y="45" width="800" height="35" fill="url(#shimmer)" clip-path="url(#textClip)">
-    <animateTransform attributeName="transform" type="translate" from="-800 0" to="1600 0" dur="3.5s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- Bottom thin line -->
-  <line x1="60" y1="108" x2="740" y2="108" stroke="#21262d" stroke-width="0.5" opacity="0.5"/>
-</svg>
-
-<!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer;Java+%7C+Spring+Boot+%7C+WebSockets" alt="Typing SVG"/>
 
 <br/>
@@ -118,3 +16,95 @@
 
 ### 👨‍💻 About Me
 ```java
+@Developer
+public class Harikrishna {
+
+    String role       = "Full Stack Java Developer";
+    String[] backend  = {"Spring Boot", "Spring Security",
+                         "Hibernate/JPA", "REST APIs", "WebSockets"};
+    String[] frontend = {"React", "Tailwind CSS", "JavaScript",
+                         "HTML5", "CSS3"};
+    String[] database = {"MySQL", "MongoDB"};
+    String[] devops   = {"Docker", "Git", "Linux",
+                         "Maven", "Gradle"};
+    String  contact   = "harikrishnabattula008@gmail.com";
+}
+```
+
+📫 **harikrishnabattula008@gmail.com**
+
+<br clear="right"/>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/hari-krishna-battula-788313248" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/bharikrishna64" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="mailto:harikrishnabattula008@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+**☕ Java & Backend**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
+</p>
+
+**⚛️ Frontend**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+**🗄️ Database**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+**🛠️ Tools & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=harikrishnaaa321&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=ffffff&icon_color=8b949e&text_color=8b949e&bg_color=0d1117" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harikrishnaaa321&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=ffffff&text_color=8b949e&bg_color=0d1117" height="180"/>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harikrishnaaa321&theme=github-dark-blue&hide_border=true&background=0d1117&ring=ffffff&fire=8b949e&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&stroke=21262d" width="65%"/>
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=161b22&height=60&section=footer&text=Let%27s%20Build%20Something%20Great&fontSize=16&fontColor=8b949e&stroke=30363d&strokeWidth=1" width="100%"/>
