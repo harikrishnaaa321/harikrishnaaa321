@@ -1,67 +1,7 @@
 <div align="center">
 
-<!-- Custom SVG Header -->
-<svg width="100%" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <pattern id="dots" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
-      <circle cx="1.5" cy="1.5" r="1" fill="#21262d"/>
-    </pattern>
-    <linearGradient id="fadeLeft" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:0"/>
-    </linearGradient>
-    <linearGradient id="fadeRight" x1="100%" y1="0%" x2="0%" y2="0%">
-      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:0"/>
-    </linearGradient>
-  </defs>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=161b22&height=180&text=Harikrishna%20Battula&fontSize=48&fontColor=ffffff&fontAlignY=48&desc=Full%20Stack%20Java%20Developer&descAlignY=68&descColor=8b949e&reversal=false" width="100%"/>
 
-  <!-- Base background -->
-  <rect width="900" height="200" fill="#0d1117"/>
-
-  <!-- Dot grid texture -->
-  <rect width="900" height="200" fill="url(#dots)"/>
-
-  <!-- Fade edges over dots -->
-  <rect width="200" height="200" fill="url(#fadeLeft)"/>
-  <rect x="700" width="200" height="200" fill="url(#fadeRight)"/>
-
-  <!-- Top border line -->
-  <line x1="0" y1="0" x2="900" y2="0" stroke="#30363d" stroke-width="1"/>
-
-  <!-- Bottom border line -->
-  <line x1="0" y1="199" x2="900" y2="199" stroke="#30363d" stroke-width="1"/>
-
-  <!-- Coffee icon -->
-  <text x="450" y="62" text-anchor="middle" font-size="28">☕</text>
-
-  <!-- Name -->
-  <text x="450" y="115"
-    text-anchor="middle"
-    font-family="Segoe UI, Helvetica, Arial, sans-serif"
-    font-size="42"
-    font-weight="700"
-    letter-spacing="-0.5"
-    fill="#ffffff">
-    Harikrishna Battula
-  </text>
-
-  <!-- Accent line under name -->
-  <line x1="310" y1="124" x2="590" y2="124" stroke="#30363d" stroke-width="1"/>
-
-  <!-- Subtitle -->
-  <text x="450" y="155"
-    text-anchor="middle"
-    font-family="JetBrains Mono, Courier New, monospace"
-    font-size="15"
-    fill="#8b949e"
-    letter-spacing="0.5">
-    &lt; Full Stack Java Developer /&gt;
-  </text>
-
-</svg>
-
-<!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Full+Stack+Java+Developer;Java+%7C+Spring+Boot+%7C+WebSockets" alt="Typing SVG"/>
 
 <br/>
@@ -167,16 +107,4 @@ public class Harikrishna {
 
 ---
 
-<!-- Footer SVG -->
-<svg width="100%" viewBox="0 0 900 60" xmlns="http://www.w3.org/2000/svg">
-  <rect width="900" height="60" fill="#0d1117"/>
-  <rect width="900" height="60" fill="url(#dots)"/>
-  <line x1="0" y1="0" x2="900" y2="0" stroke="#30363d" stroke-width="1"/>
-  <text x="450" y="36" text-anchor="middle"
-    font-family="JetBrains Mono, Courier New, monospace"
-    font-size="13" fill="#8b949e" letter-spacing="1">
-    Let's Build Something Great · harikrishnabattula008@gmail.com
-  </text>
-</svg>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=161b22&height=60&section=footer&text=Let%27s%20Build%20Something%20Great&fontSize=14&fontColor=8b949e&reversal=true" width="100%"/>
