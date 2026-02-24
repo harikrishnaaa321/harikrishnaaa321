@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Top Banner - Matrix/Dark Tech Style -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:0a1628,100:0d0d0d&height=160&text=Harikrishna%20Battula&fontSize=48&fontColor=00ff41&fontAlignY=45&desc=Full%20Stack%20Java%20Developer&descAlignY=68&descColor=00b4d8&animation=blinking" width="100%"/>
+<!-- Top Banner - Smooth Color Sweep, No Blink -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d0d,40:0a1628,80:0d2818,100:0d0d0d&height=160&text=%E2%98%95%20Harikrishna%20Battula&fontSize=45&fontColor=00ff41&fontAlignY=45&desc=Full%20Stack%20Java%20Developer&descAlignY=68&descColor=00b4d8&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer;Java+%7C+Spring+Boot+%7C+WebSockets" alt="Typing SVG"/>
@@ -98,7 +98,7 @@ public class Harikrishna {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HarikrishnaBattula&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=HarikrishnaBattula&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarikrishnaBattula&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" height="180"/>
 
 </div>
@@ -107,11 +107,7 @@ public class Harikrishna {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarikrishnaBattula&theme=chartreuse-dark&hide_border=true" width="65%"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarikrishnaBattula&theme=react-dark&bg_color=0d0d0d&color=00ff41&line=00b4d8&point=00ff41&hide_border=true" width="95%"/>
-</div>
-
 ---
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:0a1628,100:0d0d0d&height=60&section=footer&text=Let's%20Build%20Something%20Great&fontSize=18&fontColor=00ff41" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d0d,40:0a1628,80:0d2818,100:0d0d0d&height=80&section=footer&text=Let%27s%20Build%20Something%20Great&fontSize=20&fontColor=00ff41&animation=fadeIn" width="100%"/>
