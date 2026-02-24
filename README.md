@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=161b22&height=180&text=Harikrishna%20Battula&fontSize=48&fontColor=ffffff&fontAlignY=48&desc=Full%20Stack%20Java%20Developer&descAlignY=68&descColor=8b949e&reversal=false" width="100%"/>
+<h1>👋 Hi, I'm Harikrishna</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Full+Stack+Java+Developer;Java+%7C+Spring+Boot+%7C+WebSockets" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=ffffff&center=true&vCenter=true&width=600&height=80&lines=Full+Stack+Java+Developer" alt="Typing SVG"/>
 
 <br/>
 
@@ -107,4 +107,8 @@ public class Harikrishna {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=161b22&height=60&section=footer&text=Let%27s%20Build%20Something%20Great&fontSize=14&fontColor=8b949e&reversal=true" width="100%"/>
+<div align="center">
+  <p style="color:#8b949e; font-family:monospace; font-size:13px;">
+    · harikrishnabattula008@gmail.com ·
+  </p>
+</div>
