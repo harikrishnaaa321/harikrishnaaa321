@@ -2,9 +2,8 @@
 
 <h1>👋 Hi, I'm Harikrishna</h1>
 
-<!-- <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=ffffff&center=true&vCenter=true&width=600&height=80&lines=Full+Stack+Java+Developer" alt="Typing SVG"/> -->
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=58a6ff&center=true&vCenter=true&width=600&height=80&lines=Full+Stack+Java+Developer" alt="Typing SVG"/>
+
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=harikrishnaaa321&label=Profile+Views&color=21262d&style=for-the-badge&labelColor=161b22" alt="Profile Views"/>
@@ -22,7 +21,8 @@ public class Harikrishna {
 
     String role       = "Full Stack Java Developer";
     String[] backend  = {"Spring Boot", "Spring Security",
-                         "Hibernate/JPA", "REST APIs", "WebSockets"};
+                         "Hibernate/JPA", "REST APIs", "WebSockets",
+                         "Redis", "RabbitMQ"};
     String[] frontend = {"React", "Tailwind CSS", "JavaScript",
                          "HTML5", "CSS3"};
     String[] database = {"PostgreSQL", "MySQL"};
@@ -64,6 +64,8 @@ public class Harikrishna {
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
 </p>
